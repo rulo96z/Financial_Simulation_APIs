@@ -16,6 +16,9 @@ In this project we are using **Python 3.8/ Jupyter lab**. The libraries that we 
 - pandas 
 - requests 
 - json
+- numpy 
+- datetime
+- pytz
 
 ---
 
