@@ -22,9 +22,9 @@ In this project we are using **Python 3.8/ Jupyter lab**. The libraries that we 
 ## Installation Guide
 As long as you have the previous technology mentioned then the only last step will be to gather the API Keys necessary from your Alpaca account it would look something like this:
 
->- ALPACA_APY_KEY = "the alpaca api-key from your account"
+>- ```ALPACA_APY_KEY = "the alpaca api-key from your account"```
 
->- ALPACA_SECRET_KEY = "the alpaca secret-key from your account"
+>- ```ALPACA_SECRET_KEY = "the alpaca secret-key from your account"```
 ---
 
 ## Usage
