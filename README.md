@@ -10,7 +10,7 @@ A financial planner for retirement. This tool will forecast the performance of t
 ## Technologies
 In this project we are using **Python 3.8/ Jupyter lab**. The libraries that we use are:
 
--  alpaca_trade_api
+- alpaca_trade_api
 - dotenv
 - os
 - pandas 
